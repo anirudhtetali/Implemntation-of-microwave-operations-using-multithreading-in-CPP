@@ -1,4 +1,4 @@
-# Programming-a-microwave-operations-using-multi-threading-in-CPP
+# Implementation-of-microwave-operations-using-multi-threading-in-CPP
 
 This is a C++ implementation of a simple Microwave operations.    
 This application does the following:    
